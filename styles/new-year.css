@@ -1,7 +1,11 @@
+*{
+    margin: 0;
+}
 .banner{
     background-image: url(../images/banner/banner2.png);
     height: 800px;
     width: 1600px;
+    
 }
 
 .banner-title{
@@ -87,4 +91,31 @@
     font-weight: 400;
     font-size: 20px;
     color: #737272;
+}
+.forth-section{
+    background-image: url(../images/watch.png);
+    width: 1140px;
+    height: 300px;
+    margin-top: 180px;
+    margin-left: 230px;
+    background-repeat: no-repeat;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    background-blend-mode: multiply;
+}
+.gradient-title{
+    font-weight: 700px;
+    font-size: 30px;
+    padding-top: 60px;
+    margin-left: 60px;
+    color: aliceblue;
+}
+.gradient-btn{
+    width: 160px;
+    height: 60px;
+    margin-top: 25px;
+    margin-left: 60px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #F15B22;
+    border: 0;
 }
