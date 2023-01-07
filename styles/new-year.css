@@ -128,3 +128,58 @@
     height: 570px;
     color: aliceblue;
 }
+.future{
+    margin-top: 130px;
+    margin-left: 230px;
+}
+.footer-title{
+    font-weight: 700;
+    font-size: 45px;  
+    color: #F8F8F8;
+    margin-bottom: 25px;
+}
+.footer-description{
+    color: #FFFFFF;
+}
+.footer-email{
+    margin-top: 24px;
+    margin-bottom: 16px;
+    color: #FFFFFF;
+}
+.footer-phone{
+    color: #FFFFFF;
+}
+.footer-image{
+    margin-top: 32px;
+    gap: 30px;
+}
+.subscribe{
+    padding-top: 130px;
+}
+.subs-title{
+    width: 120px;
+    height: 30px;
+    margin-bottom: 30px;
+}
+.subs-email{
+    margin-bottom: 20px;
+    width: 320px;
+    height: 60px;
+    background-color: #151414;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    font-weight: 400px;
+    font-size: 20px;
+    color: white;
+}
+.footer-btn{
+    margin-top: 25px;
+    width: 170px;
+    height: 60px;
+    color: #F15B22;
+    background: #FFFFFF;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 20px;
+
+}
